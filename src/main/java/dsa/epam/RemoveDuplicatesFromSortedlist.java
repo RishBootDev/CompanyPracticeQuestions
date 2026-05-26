@@ -1,4 +1,4 @@
-package dsa;
+package dsa.epam;
 
 public class RemoveDuplicatesFromSortedlist {
 
